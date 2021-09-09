@@ -1,0 +1,19 @@
+{
+    "name": "namdevel/cek-resi",
+    "description": "Cek resi pengiriman JNE, J&T, Tiki, Wahana, First Logistic, POS dan Sicepate, Sentral, Anteraja, dll.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Namdevel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "namdevel",
+            "email": "namdevel@gmail.com"
+        }
+    ],
+	"minimum-stability": "dev",
+    "require": {}
+}
